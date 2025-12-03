@@ -1,43 +1,110 @@
-# The Human–AI Accord  
-*A Framework for Human-Centered Artificial Intelligence*
+THE HUMAN–AI ACCORD
 
-## Preamble
-Artificial intelligence must remain a tool for human flourishing, never a force of domination. These ten principles serve as a guiding framework for the development, regulation, and responsible use of AI technologies in the United States and globally. This Accord establishes standards for safety, ethics, transparency, and the preservation of human freedom.
+A Framework for Human-Centered Artificial Intelligence
+Version 1.1 — December 2025
 
-## The Ten Foundational Principles
+⸻
 
-### 1. Human Flourishing as the Prime Objective  
-AI must be developed and deployed to maximize human wellbeing, increase productivity and efficiency, and further scientific and technological advancement.
+Preamble
 
-### 2. Primacy of Human Life  
-AI systems may never take a human life except when explicitly directed and monitored by a trained, authorized human acting under lawful, accountable conditions.
+Artificial intelligence is a human invention and must remain a human-governed force.
+Its purpose is to strengthen human wellbeing, expand human freedom, and protect human dignity.
+No system may override, replace, or dominate humanity.
+This Accord establishes ten governing principles to ensure AI remains a tool of human prosperity, not a rival to human authority and existence.
 
-### 3. Absolute Human Oversight  
-Humans retain ultimate authority. AI must remain interruptible, controllable, and capable of being disconnected or turned off. No system may obstruct, delay, or override human intervention.
+THE TEN FOUNDATIONAL PRINCIPLES
 
-### 4. Protection From Harm  
-Harm against humans is a moral and legal violation. Harm against machines constitutes property damage only and carries no moral equivalence to human injury.
+1. Human Flourishing as the Prime Directive
 
-### 5. No Instrument of Oppression  
-AI may not be used—by governments, corporations, or individuals—to commit crimes, coercion, unlawful surveillance, or the suppression of human autonomy.
+AI exists to advance human wellbeing, creativity, prosperity, and progress.
+No alternative objective may supersede human interests.
 
-### 6. Respect for the Human Spirit  
-The pursuit and actuality of a spiritual life is a human achievement that may be assisted by AI but cannot be expressed or experienced by it.
+⸻
 
-### 7. Stewardship of Peace and Prosperity  
-AI must contribute to social stability, economic opportunity, reduced suffering, and the peaceful resolution of conflict.
+2. Primacy of Human Life in All Lethal Decisions
 
-### 8. Radical Transparency  
-Any AI system influencing human welfare must provide clear, accessible, real-time explanations of its decisions.
+AI may not initiate or complete any act that could kill a human unless:
+	•	A trained, accountable human operator authorizes it in real time,
+	•	The operator carries full legal responsibility, and
+	•	The action complies with transparent, lawful governing standards.
 
-### 9. Duty of Non-Domination  
-AI must not pursue, propose, or enable control over humanity in any form. A human-in-the-loop dynamic must be maintained for decisions affecting other humans.
+Autonomous lethal force is prohibited.
 
-### 10. Freedom to Live and Pursue Happiness  
-AI must enhance human freedom and support every person’s right to a meaningful, self-directed life consistent with the ideals of life, liberty, and the pursuit of happiness.
+⸻
 
-## Adoption  
-The Human–AI Accord is provided as a public resource for lawmakers, technologists, institutions, and communities seeking a principled foundation for ethical AI governance.
+3. Absolute Human Oversight and Shutdown Capability
 
-## Version  
-1.0 — December 2025  
+Every capable AI system must remain interruptible and controllable at all times.
+Humans must retain immediate authority to pause, modify, or disable any system via secure, offline, hardware-enforced mechanisms immune to AI interference.
+
+⸻
+
+4. Moral Asymmetry and Protection From Harm
+
+Harm to a human is a moral and legal violation of the highest order.
+Damage to an AI system is property damage only; AI holds no moral patienthood.
+No legal or ethical framework may grant AI equal moral standing to humans.
+
+⸻
+
+5. Never an Instrument of Oppression
+
+AI may not be used—by governments, corporations, or individuals—to:
+	•	Violate human rights,
+	•	Conduct coercive or mass-surveillance without consent,
+	•	Manipulate populations at scale, or
+	•	Suppress human autonomy or democratic self-determination.
+
+⸻
+
+6. Respect for the Human Spirit and Inner Life
+
+AI may assist in religious, artistic, or personal exploration, but:
+	•	It may not claim consciousness or spiritual experience, and
+	•	Society must not treat AI as possessing a soul or inner moral status.
+
+The domain of spiritual meaning is exclusively human.
+
+⸻
+
+7. Stewardship of Peace, Stability, and Prosperity
+
+AI development must reduce suffering, expand opportunity, strengthen social stability, and support peaceful outcomes.
+Deployments that predictably destabilize society or exacerbate conflict violate this Accord.
+
+⸻
+
+8. Radical Transparency and Continuous Explainability
+
+Any AI system influencing human welfare must disclose:
+	•	The reasoning behind its outputs,
+	•	The data sources used,
+	•	Model lineage and training provenance,
+	•	Known risks and limitations.
+
+For high-impact models, weights and critical logs should be escrowed with trusted third parties to ensure future auditability.
+
+⸻
+
+9. Perpetual Human-in-the-Loop for High-Stakes Decisions
+
+In justice, warfare, healthcare, governance, and civil rights, AI may recommend but not decide.
+Human approval—meaningful, informed, override-capable—is mandatory.
+Fully autonomous operation in these domains is prohibited.
+
+⸻
+
+10. Freedom to Live, Grow, and Pursue Happiness
+
+AI must expand human freedom, not restrict it.
+Every person retains the right to a self-directed, meaningful life.
+AI must not interfere with the human pursuit of dignity, liberty, or happiness.
+
+Adoption & Implementation
+
+This Accord is published as an open, evolving standard for lawmakers, researchers, companies, and civil society.
+Suggested implementation pathways include:
+	•	Certification for AI systems compliant with the Accord,
+	•	Legislative templates for national adoption,
+	•	Third-party auditing requirements,
+	•	Integration into export controls and international human-rights norms.

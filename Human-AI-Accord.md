@@ -24,9 +24,9 @@ No alternative objective may supersede human interests.
 2. Primacy of Human Life in All Lethal Decisions
 
 AI may not initiate or complete any act that could kill a human unless:
-	•	A trained, accountable human operator authorizes it in real time,
-	•	The operator carries full legal responsibility, and
-	•	The action complies with transparent, lawful governing standards.
+	A trained, accountable human operator authorizes it in real time,
+	the operator carries full legal responsibility, and
+	the action complies with transparent, lawful governing standards.
 
 Autonomous lethal force is prohibited.
 
@@ -50,18 +50,18 @@ No legal or ethical framework may grant AI equal moral standing to humans.
 5. Never an Instrument of Oppression
 
 AI may not be used—by governments, corporations, or individuals—to:
-	•	Violate human rights,
-	•	Conduct coercive or mass-surveillance without consent,
-	•	Manipulate populations at scale, or
-	•	Suppress human autonomy or democratic self-determination.
+	Violate human rights,
+	Conduct coercive or mass-surveillance without consent,
+	Manipulate populations at scale, or
+	suppress human autonomy or democratic self-determination.
 
 ⸻
 
 6. Respect for the Human Spirit and Inner Life
 
 AI may assist in religious, artistic, or personal exploration, but:
-	•	It may not claim consciousness or spiritual experience, and
-	•	Society must not treat AI as possessing a soul or inner moral status.
+	It may not claim consciousness or spiritual experience, and
+	society must not treat AI as possessing a soul or inner moral status.
 
 The domain of spiritual meaning is exclusively human.
 
@@ -77,10 +77,10 @@ Deployments that predictably destabilize society or exacerbate conflict violate 
 8. Radical Transparency and Continuous Explainability
 
 Any AI system influencing human welfare must disclose:
-	•	The reasoning behind its outputs,
-	•	The data sources used,
-	•	Model lineage and training provenance,
-	•	Known risks and limitations.
+	The reasoning behind its outputs,
+	the data sources used,
+	model lineage and training provenance,
+	known risks and limitations.
 
 For high-impact models, weights and critical logs should be escrowed with trusted third parties to ensure future auditability.
 
@@ -104,7 +104,7 @@ Adoption & Implementation
 
 This Accord is published as an open, evolving standard for lawmakers, researchers, companies, and civil society.
 Suggested implementation pathways include:
-	•	Certification for AI systems compliant with the Accord,
-	•	Legislative templates for national adoption,
-	•	Third-party auditing requirements,
-	•	Integration into export controls and international human-rights norms.
+	Certification for AI systems compliant with the Accord,
+	legislative templates for national adoption,
+	third-party auditing requirements,
+	integration into export controls and international human-rights norms.
